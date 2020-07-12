@@ -1,6 +1,8 @@
-## Installation
+## Requires
+- python 3+
+- MongoDB 1+
 
-Part 1: (backend)
+## Installation
 
 ```bash
 pip install pymongo Flask-PyMongo flask-cors
